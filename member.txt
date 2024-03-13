@@ -3,3 +3,4 @@ ad	34	1.76	87	Male
 fh	67	1.74	65	Male
 fy	88	1.65	67	Male
 ad	78	1.75	67	Male
+as	56	1.75	67	Female
