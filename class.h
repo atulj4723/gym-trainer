@@ -29,8 +29,8 @@ public:
         {
             if(phone3==phone) {
                 cout<<"This no is already taken try another";
-count++;
-              
+count=1;
+              break;
             }else{
               count=0;
             }
