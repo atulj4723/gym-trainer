@@ -18,7 +18,8 @@ public:
 //void workout () ;
 //hello
     void signin()
-    {   cout<<"\n\n******************SIGNIN*******************";
+    {   
+cout<<"\n\n******************SIGNIN*******************";
         
      do{cout<<"\nEnter your phone number =";
         cin>>phone3;
@@ -40,6 +41,8 @@ count=1;
      phone=phone3;
 cout<<"\nEnter your name =";
         cin>>name;
+        
+     
         cout<<"Enter your height =";
         cin>>height;
         cout<<"Enter your weight =";
