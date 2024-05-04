@@ -1,5 +1,2 @@
-ad	34	1.76	87	Male
-fh	67	1.74	65	Male
-fy	88	1.65	67	Male
-as	56	1.75	67	Female
-atul	23	1.78	67	Female
+SUJAL	1234567890	1.7	70	MALE	SUJ	low_workout.txt	low_veg.txt	GAIN
+QWER	9876543210	1	76	MALE	DT	NON	NON	GAIN

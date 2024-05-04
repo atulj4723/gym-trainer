@@ -1,0 +1,7 @@
+EARLY MORNING  |
+BREAKFAST      |
+MID MORNING    |
+LUNCH          |
+EVENING        |
+DINNER         |
+BEFORE BED     |
